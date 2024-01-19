@@ -1,0 +1,42 @@
+{
+  "authors": [
+    {
+      "name": "John Doe",
+      "birth_date": "1980-05-15",
+      "bio": "An accomplished author with several published works.",
+      "books": [
+        {
+          "title": "The Mystery of the Lost Key",
+          "published_date": "2022-01-01",
+          "genre": "Mystery",
+          "isbn": "9781234567890"
+        },
+        {
+          "title": "Secrets in the Shadows",
+          "published_date": "2022-05-20",
+          "genre": "Thriller",
+          "isbn": "9789876543210"
+        }
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "birth_date": "1992-10-21",
+      "bio": "A rising star in the literary world.",
+      "books": [
+        {
+          "title": "Adventures in Wonderland",
+          "published_date": "2021-05-10",
+          "genre": "Fantasy",
+          "isbn": "9780987654321"
+        },
+        {
+          "title": "Dragons of Destiny",
+          "published_date": "2021-11-15",
+          "genre": "Fantasy",
+          "isbn": "9785678901234"
+        }
+      ]
+    }
+  ]
+}
