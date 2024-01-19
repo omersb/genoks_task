@@ -70,6 +70,18 @@ yada json yolunu siz belirleyebilirsiniz.
 python manage.py import_books dosya_yolu
 ```
 
+## Admin Paneli
+
+superuser oluşturmak için aşağıdaki komutu çalıştırın.
+
+```bash
+python manage.py createsuperuser
+```
+
+superuser oluşturduktan sonra admin paneline aşağıdaki linkten ulaşabilirsiniz.
+
+http://localhost:8000/admin/
+
 ## Diagram şeması
 
 ![img.png](img.png)
